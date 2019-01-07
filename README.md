@@ -1,5 +1,5 @@
 # Elektronik Drum Arduino dan Node.js
-Membuat drum menggunakan arduino dengan touch detection
+Membuat drum menggunakan arduino dengan touch detection dan nodejs
 
 # Youtube video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PPhpsVW-YQk/0.jpg)](https://www.youtube.com/watch?v=PPhpsVW-YQk)
