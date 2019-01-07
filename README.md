@@ -11,3 +11,15 @@ Membuat drum menggunakan arduino dengan touch detection
 # Schematic
 
 ![IMAGE Alt schematic elektronik drum](schematic.png?raw=true "Title")
+
+# Install Module
+
+```
+npm i robotjs
+npm i serialport
+```
+
+# Run
+```
+node main.js
+```
